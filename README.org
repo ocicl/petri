@@ -1,0 +1,10 @@
+* petri
+
+Implementation of Petri nets in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/phoe/petri.git   |
+| commit  | 08e3a92  |
+| systems | petri |
+|---------+-------------------------------------------|
+
